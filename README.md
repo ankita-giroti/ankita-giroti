@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">
+    Hi There!👋 I'm Ankita Giroti!"
+</h1>
 
-<!--
-**ankita-giroti/ankita-giroti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Passionate about building Machine Learning models and working with data to find relevant information from the fuzzy datasets.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Web Automation** (https://github.com/ankita-giroti/Automate-Job-Search-Broad)
+- 📌 Find my work on **machine learning and embedded system** here -> https://github.com/ankita-giroti/Design-and-Study-of-Human-Human-Interaction-System
+- 💬 Ask me about **Python, Machine Learning, and Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<h3>To know more about me follow me on:</h3>
+<div align="center">
+  <a href="https://linkedin.com/in/ankita-giroti" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://medium.com/@concept-breaker" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
