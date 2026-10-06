@@ -4,9 +4,9 @@
 
 ### Passionate about building Machine Learning models and working with data to find relevant information from the fuzzy datasets.
 
-- 🌱 I’m currently learning **Web Automation** (https://github.com/ankita-giroti/Automate-Job-Search-Broad)
+- 🌱 I’m currently exploring **Generative AI and NLP Techniques** (https://github.com/ankita-giroti/Automate-Job-Search-Broad)
 - 📌 Find my work on **machine learning and embedded system** here -> https://github.com/ankita-giroti/Design-and-Study-of-Human-Human-Interaction-System
-- 📝 Find out my blogs on Python and Data Science on medium -> https://medium.com/@concept-breaker
+- 📝 Find out my blogs on **Python and Data Science** on medium -> https://medium.com/@concept-breaker
 - 💬 Ask me about **Python, Machine Learning, and Java**
 
 <br>
